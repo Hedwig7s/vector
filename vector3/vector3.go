@@ -7,8 +7,8 @@ import (
 	"math"
 	"math/rand"
 
-	"github.com/EliCDavis/vector"
-	"github.com/EliCDavis/vector/vector2"
+	"github.com/Hedwig7s/vector"
+	"github.com/Hedwig7s/vector/vector2"
 )
 
 // Vector contains 3 components

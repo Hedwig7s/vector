@@ -6,9 +6,9 @@ import (
 	"image/color"
 	"math"
 
-	"github.com/EliCDavis/vector"
-	"github.com/EliCDavis/vector/vector2"
-	"github.com/EliCDavis/vector/vector3"
+	"github.com/Hedwig7s/vector"
+	"github.com/Hedwig7s/vector/vector2"
+	"github.com/Hedwig7s/vector/vector3"
 )
 
 // Vector contains 4 components

@@ -1,6 +1,6 @@
 package experiments_test
 
-import "github.com/EliCDavis/vector"
+import "github.com/Hedwig7s/vector"
 
 type MVector[T vector.Number] struct {
 	X T

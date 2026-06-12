@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/EliCDavis/vector/vector3"
+	"github.com/Hedwig7s/vector/vector3"
 )
 
 var arrLenToTest = []int{

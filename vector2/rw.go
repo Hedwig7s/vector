@@ -6,7 +6,7 @@ import (
 	"io"
 	"math"
 
-	"github.com/EliCDavis/vector"
+	"github.com/Hedwig7s/vector"
 )
 
 const componentCount = 2

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"math"
 
-	"github.com/EliCDavis/vector"
+	"github.com/Hedwig7s/vector"
 )
 
 type Array[T vector.Number] []Vector[T]

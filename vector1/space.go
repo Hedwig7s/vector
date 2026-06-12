@@ -3,7 +3,7 @@ package vector1
 import (
 	"math"
 
-	"github.com/EliCDavis/vector"
+	"github.com/Hedwig7s/vector"
 )
 
 type Space[T vector.Number] struct{}

@@ -3,7 +3,7 @@ package vector4_test
 import (
 	"testing"
 
-	"github.com/EliCDavis/vector/vector4"
+	"github.com/Hedwig7s/vector/vector4"
 	"github.com/stretchr/testify/assert"
 )
 

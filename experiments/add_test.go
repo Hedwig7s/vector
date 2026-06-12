@@ -4,7 +4,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/EliCDavis/vector/vector3"
+	"github.com/Hedwig7s/vector/vector3"
 )
 
 var addResultFloat64 vector3.Vector[float64]

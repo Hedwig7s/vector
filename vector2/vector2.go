@@ -6,7 +6,7 @@ import (
 	"math"
 	"math/rand"
 
-	"github.com/EliCDavis/vector"
+	"github.com/Hedwig7s/vector"
 )
 
 type Vector[T vector.Number] struct {

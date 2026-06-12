@@ -1,4 +1,4 @@
-module github.com/EliCDavis/vector
+module github.com/Hedwig7s/vector
 
 go 1.21
 

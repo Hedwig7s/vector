@@ -3,7 +3,7 @@ package vector3_test
 import (
 	"testing"
 
-	"github.com/EliCDavis/vector/vector3"
+	"github.com/Hedwig7s/vector/vector3"
 	"github.com/stretchr/testify/assert"
 )
 

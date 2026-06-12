@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/EliCDavis/vector/vector3"
+	"github.com/Hedwig7s/vector/vector3"
 	"github.com/stretchr/testify/assert"
 )
 

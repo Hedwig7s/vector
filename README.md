@@ -1,8 +1,8 @@
 # Vector
 
 ![Coverage](https://img.shields.io/badge/Coverage-91.3%25-brightgreen)
-[![Go Report Card](https://goreportcard.com/badge/github.com/EliCDavis/vector)](https://goreportcard.com/report/github.com/EliCDavis/vector)
-[![GoDoc](https://godoc.org/github.com/EliCDavis/vector?status.svg)](http://godoc.org/github.com/EliCDavis/vector)
+[![Go Report Card](https://goreportcard.com/badge/github.com/Hedwig7s/vector)](https://goreportcard.com/report/github.com/Hedwig7s/vector)
+[![GoDoc](https://godoc.org/github.com/Hedwig7s/vector?status.svg)](http://godoc.org/github.com/Hedwig7s/vector)
 
 Collection of **generic, immutable** vector math functions I've written overtime for different hobby projects.
 
@@ -92,9 +92,9 @@ import (
 	"math"
 	"os"
 
-	"github.com/EliCDavis/vector"
-	"github.com/EliCDavis/vector/vector2"
-	"github.com/EliCDavis/vector/vector3"
+	"github.com/Hedwig7s/vector"
+	"github.com/Hedwig7s/vector/vector2"
+	"github.com/Hedwig7s/vector/vector3"
 )
 
 type Field[T vector.Number] func(v vector3.Vector[T]) float64

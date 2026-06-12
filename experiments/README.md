@@ -23,7 +23,7 @@ The benchmarking results is probably just noise at the moment. This is further p
 ```
 goos: windows
 goarch: amd64
-pkg: github.com/EliCDavis/vector/experiments
+pkg: github.com/Hedwig7s/vector/experiments
 cpu: 13th Gen Intel(R) Core(TM) i7-13800H
 BenchmarkSumVector/Len-100-20   	         9706915	       116.1 ns/op	       0 B/op	       0 allocs/op
 BenchmarkSumVector/Len-1000-20  	         1000000	      1133 ns/op	       0 B/op	       0 allocs/op
@@ -74,7 +74,7 @@ Avoid using pointers. Having a method return a value isn't bad.
 ```
 goos: windows
 goarch: amd64
-pkg: github.com/EliCDavis/vector/experiments
+pkg: github.com/Hedwig7s/vector/experiments
 cpu: 13th Gen Intel(R) Core(TM) i7-13800H
 BenchmarkAddVector-20                                           	1000000000	         0.8899 ns/op	       0 B/op	       0 allocs/op
 BenchmarkAddMutableVector-20                                    	1000000000	         0.8704 ns/op	       0 B/op	       0 allocs/op
@@ -115,7 +115,7 @@ Using a function to access a component in a vector is Okay.
 ```
 goos: windows
 goarch: amd64
-pkg: github.com/EliCDavis/vector/experiments
+pkg: github.com/Hedwig7s/vector/experiments
 cpu: 13th Gen Intel(R) Core(TM) i7-13800H
 BenchmarkAccessVector-20           1000000000         0.5130 ns/op       0 B/op       0 allocs/op
 BenchmarkAccessMutableVector-20    1000000000         0.5163 ns/op       0 B/op       0 allocs/op

@@ -1,6 +1,6 @@
 package vector3
 
-import "github.com/EliCDavis/vector"
+import "github.com/Hedwig7s/vector"
 
 type Space[T vector.Number] struct{}
 

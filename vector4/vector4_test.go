@@ -6,9 +6,9 @@ import (
 	"math"
 	"testing"
 
-	"github.com/EliCDavis/vector/vector2"
-	"github.com/EliCDavis/vector/vector3"
-	"github.com/EliCDavis/vector/vector4"
+	"github.com/Hedwig7s/vector/vector2"
+	"github.com/Hedwig7s/vector/vector3"
+	"github.com/Hedwig7s/vector/vector4"
 	"github.com/stretchr/testify/assert"
 )
 

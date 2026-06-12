@@ -1,6 +1,6 @@
 package vector2
 
-import "github.com/EliCDavis/vector"
+import "github.com/Hedwig7s/vector"
 
 type Serializable[T vector.Number] struct {
 	X T

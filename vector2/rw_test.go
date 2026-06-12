@@ -5,8 +5,8 @@ import (
 	"encoding/binary"
 	"testing"
 
-	"github.com/EliCDavis/vector"
-	"github.com/EliCDavis/vector/vector2"
+	"github.com/Hedwig7s/vector"
+	"github.com/Hedwig7s/vector/vector2"
 	"github.com/stretchr/testify/assert"
 )
 
